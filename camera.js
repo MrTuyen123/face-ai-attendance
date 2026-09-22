@@ -1,4 +1,3 @@
-
 const video = document.getElementById("video");
 
 navigator.mediaDevices
