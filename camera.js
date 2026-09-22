@@ -2,7 +2,7 @@ const video = document.getElementById("video");
 
 Promise.all([
  faceapi.nets.tinyFaceDetector.loadFromUri(
- "https://justadudewhohacks.github.io/face-api.js/models"
+ "https://cdn.jsdelivr.net/npm/face-api.js/weights"
  )
 ])
 .then(startCamera);
