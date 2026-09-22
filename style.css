@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    background:#f4f7fb;
+}
+
+video{
+    width:450px;
+    max-width:90%;
+    border-radius:20px;
+    border:3px solid #2563eb;
+    margin-top:20px;
+}
+
+h1{
+    color:#12358f;
+}
+
+#status{
+    font-size:18px;
+    font-weight:bold;
+}
