@@ -1,4 +1,4 @@
-console.log(faceapi);
+
 const video = document.getElementById("video");
 
 navigator.mediaDevices
