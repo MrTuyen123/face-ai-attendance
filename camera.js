@@ -1,3 +1,4 @@
+console.log("face-api:", typeof faceapi);
 const video = document.getElementById("video");
 
 Promise.all([
